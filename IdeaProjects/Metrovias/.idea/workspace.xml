@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db59bf5-2984-46e0-bce6-93d18f83905c" name="Default" comment="" />
-    <ignored path="Pila.iws" />
+    <list default="true" id="9c21ada6-4537-4901-99ed-f9e8d3967e35" name="Default" comment="" />
+    <ignored path="Metrovias.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/ayedpilas.java" changelist="2db59bf5-2984-46e0-bce6-93d18f83905c" time="1394806093132" ignored="false" />
-    <file path="$PROJECT_DIR$/src/ayedpilas.java" changelist="2db59bf5-2984-46e0-bce6-93d18f83905c" time="1395953699132" ignored="false" />
-    <file path="/PilaE.java" changelist="2db59bf5-2984-46e0-bce6-93d18f83905c" time="1396136450415" ignored="false" />
-    <file path="$PROJECT_DIR$/../ayedpilas/src/PilaE.java" changelist="2db59bf5-2984-46e0-bce6-93d18f83905c" time="1395954038399" ignored="false" />
-    <file path="$PROJECT_DIR$/../ayedpilas/src/Test.java" changelist="2db59bf5-2984-46e0-bce6-93d18f83905c" time="1395953819481" ignored="false" />
-    <file path="/Test.java" changelist="2db59bf5-2984-46e0-bce6-93d18f83905c" time="1396139148585" ignored="false" />
-    <file path="/Pila.java" changelist="2db59bf5-2984-46e0-bce6-93d18f83905c" time="1396126418689" ignored="false" />
-    <file path="/Analizador.java" changelist="2db59bf5-2984-46e0-bce6-93d18f83905c" time="1396131113665" ignored="false" />
-    <file path="/Auto.java" changelist="2db59bf5-2984-46e0-bce6-93d18f83905c" time="1396133917574" ignored="false" />
-    <file path="/Estacionamiento.java" changelist="2db59bf5-2984-46e0-bce6-93d18f83905c" time="1396137353491" ignored="false" />
-    <file path="/PilaEstacionamiento.java" changelist="2db59bf5-2984-46e0-bce6-93d18f83905c" time="1396136916290" ignored="false" />
-    <file path="/Nodo.java" changelist="2db59bf5-2984-46e0-bce6-93d18f83905c" time="1396138082645" ignored="false" />
-    <file path="/PilaD.java" changelist="2db59bf5-2984-46e0-bce6-93d18f83905c" time="1396139846046" ignored="false" />
-    <file path="/Calculadora.java" changelist="2db59bf5-2984-46e0-bce6-93d18f83905c" time="1396139873369" ignored="false" />
+    <file path="/Test.java" changelist="9c21ada6-4537-4901-99ed-f9e8d3967e35" time="1400184347531" ignored="false" />
+    <file path="/Window.java" changelist="9c21ada6-4537-4901-99ed-f9e8d3967e35" time="1400183405206" ignored="false" />
+    <file path="/Queue.java" changelist="9c21ada6-4537-4901-99ed-f9e8d3967e35" time="1400181626351" ignored="false" />
+    <file path="/ListE.java" changelist="9c21ada6-4537-4901-99ed-f9e8d3967e35" time="1400180991551" ignored="false" />
+    <file path="/Client.java" changelist="9c21ada6-4537-4901-99ed-f9e8d3967e35" time="1400181776842" ignored="false" />
+    <file path="/QueueD.java" changelist="9c21ada6-4537-4901-99ed-f9e8d3967e35" time="1400183399653" ignored="false" />
+    <file path="/Sistema.java" changelist="9c21ada6-4537-4901-99ed-f9e8d3967e35" time="1400184847628" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,20 +67,10 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Pila" />
+    <favorites_list name="Metrovias" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="PilaE.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TP3/PilaE.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="37" selection-start="89" selection-end="89" vertical-scroll-proportion="0.02866779">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -97,28 +80,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ayedpilas.java" />
-        <option value="$PROJECT_DIR$/src/Pila.java" />
-        <option value="$PROJECT_DIR$/src/PilaE.java" />
-        <option value="$PROJECT_DIR$/src/Pila/PilaE.java" />
-        <option value="$PROJECT_DIR$/src/Ejercicios/Analizador.java" />
-        <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/Ejercicio2/Auto.java" />
-        <option value="$PROJECT_DIR$/src/TP3/Auto.java" />
-        <option value="$PROJECT_DIR$/src/TP3/PilaE.java" />
-        <option value="$PROJECT_DIR$/src/TP3/PilaEstacionamiento.java" />
-        <option value="$PROJECT_DIR$/src/TP3/Estacionamiento.java" />
-        <option value="$PROJECT_DIR$/src/TP3/Nodo.java" />
-        <option value="$PROJECT_DIR$/src/TP3/Test.java" />
-        <option value="$PROJECT_DIR$/src/TP3/PilaD.java" />
-        <option value="$PROJECT_DIR$/src/TP3/Calculadora.java" />
+        <option value="$PROJECT_DIR$/src/ColaE.java" />
+        <option value="$PROJECT_DIR$/src/Window.java" />
+        <option value="$PROJECT_DIR$/src/List.java" />
+        <option value="$PROJECT_DIR$/src/ListE.java" />
+        <option value="$PROJECT_DIR$/src/Queue.java" />
+        <option value="$PROJECT_DIR$/src/Client.java" />
+        <option value="$PROJECT_DIR$/src/QueueD.java" />
+        <option value="$PROJECT_DIR$/src/Queue/Queue.java" />
+        <option value="$PROJECT_DIR$/src/Metrovias/Client.java" />
+        <option value="$PROJECT_DIR$/src/Queue/QueueD.java" />
+        <option value="$PROJECT_DIR$/src/Queue/Test.java" />
+        <option value="$PROJECT_DIR$/src/Queue/QueueE.java" />
+        <option value="$PROJECT_DIR$/src/Metrovias/Test.java" />
+        <option value="$PROJECT_DIR$/src/Metrovias/Sistema.java" />
+        <option value="$PROJECT_DIR$/src/Metrovias/Window.java" />
+        <option value="$PROJECT_DIR$/src/Metrovias/QueueE.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
+    <option name="width" value="1292" />
     <option name="height" value="776" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -153,27 +136,41 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Pila" />
+              <option name="myItemId" value="Metrovias" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Pila" />
+              <option name="myItemId" value="Metrovias" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Pila" />
+              <option name="myItemId" value="Metrovias" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Pila" />
+              <option name="myItemId" value="Metrovias" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Pila" />
+              <option name="myItemId" value="Metrovias" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Metrovias" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Metrovias" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -181,7 +178,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TP3" />
+              <option name="myItemId" value="Metrovias" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -202,7 +199,7 @@
   </component>
   <component name="RunManager" selected="Application.Test">
     <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="TP3.Test" />
+      <option name="MAIN_CLASS_NAME" value="Metrovias.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -211,15 +208,9 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Pila" />
+      <module name="Metrovias" />
       <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -315,8 +306,10 @@
       <item index="0" class="java.lang.String" itemvalue="Application.Test" />
     </list>
     <recent_temporary>
-      <list size="1">
+      <list size="3">
         <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -327,34 +320,34 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2db59bf5-2984-46e0-bce6-93d18f83905c" name="Default" comment="" />
-      <created>1394805059195</created>
-      <updated>1394805059195</updated>
+      <changelist id="9c21ada6-4537-4901-99ed-f9e8d3967e35" name="Default" comment="" />
+      <created>1397849908991</created>
+      <updated>1397849908991</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="1292" height="776" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3990307" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24878444" sideWeight="0.6704362" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2495935" sideWeight="0.6704362" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -424,73 +417,66 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TP3/PilaE.java">
+    <entry file="file://$PROJECT_DIR$/src/Metrovias/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="37" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
+        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TP3/PilaE.java">
+    <entry file="file://$PROJECT_DIR$/src/Metrovias/ListE.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
+        <state line="83" column="0" selection-start="1637" selection-end="1637" vertical-scroll-proportion="0.69139963">
+          <folding>
+            <element signature="method#addBefore#0;class#ListE#0" expanded="false" />
+            <element signature="method#addNext#0;class#ListE#0" expanded="false" />
+            <element signature="method#next#0;class#ListE#0" expanded="false" />
+            <element signature="method#before#0;class#ListE#0" expanded="false" />
+            <element signature="method#goTo#0;class#ListE#0" expanded="false" />
+            <element signature="method#isEmpty#0;class#ListE#0" expanded="false" />
+            <element signature="method#empty#0;class#ListE#0" expanded="false" />
+            <element signature="method#showWindow#0;class#ListE#0" expanded="false" />
+            <element signature="method#delete#0;class#ListE#0" expanded="false" />
+            <element signature="method#modify#0;class#ListE#0" expanded="false" />
+            <element signature="method#length#0;class#ListE#0" expanded="false" />
+            <element signature="method#resize#0;class#ListE#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Metrovias/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="19" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TP3/PilaE.java">
+    <entry file="file://$PROJECT_DIR$/src/Metrovias/QueueE.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
+        <state line="44" column="25" selection-start="873" selection-end="873" vertical-scroll-proportion="-0.3521851">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TP3/PilaEstacionamiento.java">
+    <entry file="file://$PROJECT_DIR$/src/Metrovias/Window.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="48" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+        <state line="25" column="94" selection-start="896" selection-end="896" vertical-scroll-proportion="-0.017994858">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TP3/Estacionamiento.java">
+    <entry file="file://$PROJECT_DIR$/src/Metrovias/Sistema.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="74" selection-start="374" selection-end="374" vertical-scroll-proportion="0.40874037">
-          <folding />
+        <state line="48" column="0" selection-start="1794" selection-end="1794" vertical-scroll-proportion="0.33161953">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TP3/Nodo.java">
+    <entry file="file://$PROJECT_DIR$/src/Metrovias/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="23" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TP3/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="30" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TP3/PilaD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="30" selection-start="457" selection-end="457" vertical-scroll-proportion="0.42664418">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TP3/Calculadora.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="4" selection-start="195" selection-end="195" vertical-scroll-proportion="0.2866779" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TP3/Pila.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="18" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TP3/PilaE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="37" selection-start="89" selection-end="89" vertical-scroll-proportion="0.02866779">
+        <state line="12" column="0" selection-start="274" selection-end="274" vertical-scroll-proportion="0.5244216">
           <folding />
         </state>
       </provider>
